@@ -1,8 +1,8 @@
 ---
-title: 'Bitcoin Staking'
+title: 'Foxi Mobile App Launch'
 pubDate: 2024-04-05T05:00:00Z
 description: 'We have rolled out new security updates to keep your data safe and secure. Learn more about our latest security enhancements and how they protect you.'
-author: 'Bitcoin'
+author: 'Eleni K'
 image: '/blog/post-02-cover.png'
 tags: ['app', 'announcement']
 ---
